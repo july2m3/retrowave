@@ -5,7 +5,7 @@ using UnityEngine;
 public class moveCar : MonoBehaviour
 {
     private Rigidbody rb;
-    const int speed = 500;
+    const int speed = 5000;
     // Start is called before the first frame update
     void Start()
     {
